@@ -121,7 +121,7 @@ printf("Key exchange failed. Shared secrets do not match.\n");
 }
 return 0;
 } 
-
+```
 
 ## Output:
 <img width="813" height="577" alt="Screenshot 2025-10-09 141629" src="https://github.com/user-attachments/assets/b1d3a483-72bd-4ba5-bbc9-3e45d28aa943" />
